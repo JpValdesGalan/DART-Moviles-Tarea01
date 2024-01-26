@@ -15,3 +15,6 @@ Lo primero que me costo fue terminar de entender como funciona flutter y como fu
 
 ![Screenshot01](<./screenshots/Screenshot 2024-01-25 185853.png>)
 ![Screenshot02](<./screenshots/Screenshot 2024-01-25 222656.png>)
+
+### Link al video
+[Tarea01 - Video](https://youtube.com/shorts/Ju79q1wsuZk?feature=share)
